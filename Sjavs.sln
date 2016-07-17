@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjavs", "Sjavs\Sjavs.csproj", "{3BA5A9E7-0BEE-4579-96E8-357FFD6B5741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication", "Communication\Communication.csproj", "{80E99994-5D56-4291-9EB6-279D5009550F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSjavs", "WebSjavs\WebSjavs.csproj", "{C75E6D06-5C18-4466-AC10-52A96F762542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA5A9E7-0BEE-4579-96E8-357FFD6B5741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA5A9E7-0BEE-4579-96E8-357FFD6B5741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA5A9E7-0BEE-4579-96E8-357FFD6B5741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA5A9E7-0BEE-4579-96E8-357FFD6B5741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E99994-5D56-4291-9EB6-279D5009550F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E99994-5D56-4291-9EB6-279D5009550F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E99994-5D56-4291-9EB6-279D5009550F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E99994-5D56-4291-9EB6-279D5009550F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75E6D06-5C18-4466-AC10-52A96F762542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75E6D06-5C18-4466-AC10-52A96F762542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75E6D06-5C18-4466-AC10-52A96F762542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75E6D06-5C18-4466-AC10-52A96F762542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
